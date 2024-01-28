@@ -7,15 +7,15 @@ Hello there! 👋
 I'm a passionate backend developer with a solid understanding of front-end technologies. My focus is on building robust and scalable server-side applications, but I'm also skilled in integrating these with user-friendly front-end interfaces.
 
 ### Backend Skills
-- **Languages:** [Python, java and typescript]
-- **Frameworks:** [React]
-- **Databases:** [Mysql]
+- **Languages:** Python, java and typescript
+- **Frameworks:** React
+- **Databases:** Mysql
 - **API Development:** RESTful
-- **Other Skills:** [Docker]
+- **Other Skills:** Docker
 
 ### Frontend Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** [React]
+- **Frameworks/Libraries:**[React
 - **Responsive Design:** Building responsive and accessible web applications
 
 
