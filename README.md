@@ -8,7 +8,6 @@ I'm a passionate backend developer with a solid understanding of front-end techn
 
 ### Backend Skills
 - **Languages:** Python, java
-- **Frameworks:** 
 - **Databases:** Mysql
 - **API Development:** RESTful
 - **Other Skills:** Docker
