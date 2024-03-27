@@ -14,7 +14,7 @@ I'm a passionate backend developer with a solid understanding of front-end techn
 
 ### Frontend Skills
 - **Languages:** HTML, CSS,  typescript
-- **Frameworks/Libraries:**[React
+- **Frameworks/Libraries:**React
 - **Responsive Design:** Building responsive and accessible web applications
 
 
